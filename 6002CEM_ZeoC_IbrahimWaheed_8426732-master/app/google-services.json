@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "997781486553",
+    "firebase_url": "https://zeocigar-default-rtdb.firebaseio.com",
+    "project_id": "zeocigar",
+    "storage_bucket": "zeocigar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997781486553:android:55ee650e3b282842c337c8",
+        "android_client_info": {
+          "package_name": "com.example.cigar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997781486553-cmh3j80kltsg4vmq39qan89ttmle3ns9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAexr1_qCHiohzua_q0XQo90W3iDLEt2yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997781486553-cmh3j80kltsg4vmq39qan89ttmle3ns9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

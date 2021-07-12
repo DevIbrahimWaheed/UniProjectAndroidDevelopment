@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    android:background="@color/lightgrey">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_smoke_room"
+            android:icon="@drawable/ic_baseline_smoking_rooms_24"
+            android:title="Smoke Room" />
+        <item
+            android:id="@+id/menu_login_in"
+            android:icon="@drawable/ic_baseline_login_24"
+            android:title="Login/Signup" />
+        <item
+            android:id="@+id/menu_websmoke"
+            android:icon="@drawable/ic_baseline_smoking_rooms_24"
+            android:title="Internet Cigars Images " />
+        <item
+            android:id="@+id/menu_takecamera"
+            android:icon="@drawable/ic_baseline_photo_camera_24"
+            android:title="Take A Cigar Picture" />
+        <item
+            android:id="@+id/menu_takecamera_gallery"
+            android:icon="@drawable/ic_baseline_photo_camera_24"
+            android:title="See Image" />
+    </group>
+
+    <group android:checkableBehavior="single">
+    <item
+        android:id="@+id/menu_localCigarsStores"
+        android:icon="@drawable/ic_baseline_store_mall_directory_24"
+        android:title="Local Cigar Stores" />
+    </group>
+
+</menu>
